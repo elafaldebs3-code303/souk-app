@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+// ignore: unused_import
 import 'package:souk_app/views/cart_page.dart';
 import 'package:souk_app/views/main_screen.dart';
 import 'package:provider/provider.dart';
